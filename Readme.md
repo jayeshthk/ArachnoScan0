@@ -4,6 +4,8 @@ A high-performance async web crawler that meticulously maps website structures w
 crawler built with Python and aiohttp for discovering URLs on websites.
 Like a spider sensing vibrations across its web, ArachnoScan detects every meaningful connection within your target sites.
 
+![spider](./spider.jpg)
+
 ## Features
 
 - Async I/O for high performance
