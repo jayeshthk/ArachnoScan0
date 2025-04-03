@@ -50,7 +50,7 @@ Run with Docker:
 cat urls.txt | docker run -i web-crawler [options]
 ```
 
-Callable Async call:
+Callable Async method :
 
 ```python
 from hakrawler import run_crawler
